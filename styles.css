@@ -1,8 +1,10 @@
 div{
 	width:200px;
-	background-color:purple;
+	background-color:rgb(128, 0, 128);
 	padding:10px;
-	color:white;
+	color:rgb(255, 255, 255);
 	font-size: 20px;
-	border-left: 5px solid green;
+	border-left-style: solid;
+	border-left-width: 5px;
+	border-left-color: rgb(0, 128, 0);
 }
